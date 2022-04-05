@@ -1,2 +1,1 @@
-Add a new simplicity.txt file with the following sentence:
-"Simplicity is the soul of efficiency." - Austin Freeman
+"Nature is pleased with simplicity. And nature is no dummy." - Isaac Newton
